@@ -1,13 +1,17 @@
 import time
 
+#implementar códigos
+#preços dos produtos
+#troco para o cliente
+
 
 print("Bem vindo a feirinha casa de minas.")
 time.sleep(2)
-print("Temos os seguintes produtos com respectivos códigos:")
+print("Temos os seguintes produtos)")
 print("\n")
 
 def usuario(user):
-    print(f"Ola {user} bem vindo,escolha seus produtos:")
+    print(f"Ola {user}. Bem vindo,escolha seus produtos:")
     
 def produtos():
     print("Temos os seguintes produtos:")
